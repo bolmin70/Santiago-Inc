@@ -1,0 +1,100 @@
+Welcome to Santiago Integral, a game about learning new stuff and catching criminals
+
+Before we get into action, lets teach you the ropes
+
+
+This is your base, here you can take new quests
+
+do so by clicking the 'letter' icon down below
+
+now choose the difficulty (easy is recommended for your first try)
+
+
+Welcome to the world map
+
+squares are locations that you can visit
+
+the square filled with red is your current position
+
+
+this the HUD 
+
+this represents how much money you have
+this tells you the current time in Santiago
+and this only appears during missions telling you how much time you have before the arrest warrant expires
+
+
+okay so lets start looking for the criminal
+
+choose a random region, do it by clicking the square
+
+
+here you have the region panel
+
+depending on the teritory you choosen there are possible countries to choose
+
+you can choose to travel to a certain country by clicking on its name
+
+remember traveling takes time!
+
+here you can select the plane type, the more expensive the plane the faster you will get to your desired location
+
+
+now you are in the country panel
+
+here you can start looking for clues about the criminals location
+
+you can do so by pressing the 'binoculars' icon
+
+remember looking for clues takes time!
+
+now you have a question to answer, if you answer correctly you will get access to a clue
+
+
+
+
+Great! you answered correctly!
+
+now you get access to the clue
+
+read it carefully and go to the world map by clicking the 'map' icon
+
+now look for a region that the clue points to
+
+
+
+this means that you picked the correct country
+
+finish main tutorial
+
+
+
+oh no you have choosen the wrong country
+
+no worries this was only a tutorial not a real mission
+
+finish main tutorial
+
+
+
+
+
+
+
+
+Oh no! your anwser was wrong
+
+don't worry, you still have plenty of time to look for another one
+
+
+return
+
+
+
+
+
+
+
+
+
+
